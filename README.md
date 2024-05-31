@@ -13,7 +13,7 @@
 1. Установить Anaconda (https://www.anaconda.com/download, нажать *skip registration*)
 2. Создать дополнительную виртуальную среду окружения:
     - Перейти в **Environments** и нажать **Create**
-    - В окне выбрать **Python 3.9.xx**, ввести название среды (например, analyze) и нажать **Create**
+    - В окне выбрать **Python 3.8.xx**, ввести название среды (например, analyze) и нажать **Create**
 
 ![Изображение](static/create_venv.png "Установка виртуальной среды")
 
