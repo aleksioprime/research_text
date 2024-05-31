@@ -14,5 +14,13 @@
 2. Создать дополнительную виртуальную среду окружения:
     - Перейти в **Environments** и нажать **Create**
     - В окне выбрать **Python 3.9.xx**, ввести название среды (например, analyze) и нажать **Create**
+
+![Изображение](static/create_venv.png "Установка виртуальной среды")
+
 3. Перейти в **Home** и установить **Jupiter NoteBook**, нажав на **Install** под его значком
+
+![Изображение](static/create_jupyter.png "Установка Jupiter NoteBook")
+
 4. Перейти в **Environments**, нажать на значок *play* напротив созданной среды и выбрать **Open with Jupiter NoteBook**
+
+![Изображение](static/run_jupyter.png "Запуск Jupiter NoteBook")
