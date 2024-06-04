@@ -2,9 +2,11 @@
 
 ### Ноутбуки с кодом
 
+- ```text_processing.ipynb```: приёмы обработки текста;
+- ```text_tf-idf.ipynb```: нахождение tf-idf;
 - ```generate_n-gramm.ipynb```: генерация текста с использованием n-грамм;
 - ```generate_word2vec.ipynb```: генерация текста с использованием World2Vec;
-- ```text_processing.ipynb```: приёмы обработки текста;
+- ```models_learning.ipynb```: обучение и использование моделей для NLP;
 - ```text_analysis.ipynb```: алгоритмы анализа текста;
 - ```text_practice.ipynb```: практические задания по анализу сообщений;
 
